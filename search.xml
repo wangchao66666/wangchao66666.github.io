@@ -1,53 +1,39 @@
 <?xml version="1.0" encoding="utf-8"?>
-<search>
-  <entry>
-    <title>第一次云计算作业</title>
-    <url>/2022/03/10/shi-yan/</url>
-    <content><![CDATA[<h1 id="第一次云计算作业"><a href="#第一次云计算作业" class="headerlink" title="第一次云计算作业"></a>第一次云计算作业</h1><h3 id="1-题目-云使能技术包括哪些技术组件？-用一句话简要说明其关键特征"><a href="#1-题目-云使能技术包括哪些技术组件？-用一句话简要说明其关键特征" class="headerlink" title="1, 题目: 云使能技术包括哪些技术组件？ 用一句话简要说明其关键特征"></a>1, 题目: 云使能技术包括哪些技术组件？ 用一句话简要说明其关键特征</h3><ol>
-<li><p><strong>基本技术组件</strong></p>
-<blockquote>
-<ul>
-<li><strong>宽带网络和Internet架构</strong>: 云用户和云提供者通常利用Internet进行通信，Internet以无中心的供给和管理模型为基础，不受任何集中式实体的控制。n网络互联架构的主要组件是使用网络路由器和交换机的无连接分组交换与基于路由器的互联。网络带宽和延迟是影响QoS的因素，而网络拥塞对其有巨大影响。</li>
-<li><strong>数据中心技术</strong>：一种特殊的IT基础设施，用于集中放置IT资源；</li>
-<li><strong>虚拟化技术</strong>：是将物理IT资源转换为虚拟IT资源的过程，虚拟服务器使用自己的客户操作系统，独立于创建虚拟服务器的操作系统，在虚拟服务器上运行的客户操作系统和应用软件，都不会感知到虚拟化的过程；</li>
-<li><strong>Web技术</strong>：WWW是由通过Internet访问的互联IT资源构成的系统，其两个基本组件是Web浏览器客户端和Web服务器；</li>
-<li><strong>多租户技术</strong>：使用隔离，数据安全，可恢复性，应用升级，可扩展性，使用计费，数据层隔离；</li>
-<li><strong>服务技术</strong>：基于Web的服务(如Web服务和REST服务)依靠非专有通信和技术接口定义来建立基于Web技术的标准通信框架，服务代理提供事件驱动运行时处理，适用于云中大量的功能。许多代理都自动部署在操作系统和基于云的产品中，服务中间件(如ESB和业务流程平台)可以在云上部署。</li>
-</ul>
-</blockquote>
-</li>
-<li><p><strong>关键特征</strong>：</p>
-<blockquote>
-<p>所有的云必须连接到网络，同时利用数据中心技术集中存放IT资源，应用虚拟化技术将物理IT资源转换为虚拟IT资源，从而提供了硬件无关性、服务器整合、资源复制、对资源更强的支持和可扩展性；使用Web技术作为云服务的实现介值和管理接口；设计多租户技术使多个用户在逻辑上同时访问一个应用；其中的服务技术是云计算的基石，形成了“作为服务”的云交付模型的基础。</p>
-</blockquote>
-</li>
-</ol>
-<h3 id="2-题目：-列举至少三种虚拟化软件，并用一句话概括其特点"><a href="#2-题目：-列举至少三种虚拟化软件，并用一句话概括其特点" class="headerlink" title="2, 题目： 列举至少三种虚拟化软件，并用一句话概括其特点"></a>2, 题目： 列举至少三种虚拟化软件，并用一句话概括其特点</h3><ol>
-<li><p><strong>三种虚拟化软件</strong></p>
-<blockquote>
-<ul>
-<li><strong>VMware ESXi</strong>:  侧重于服务器虚拟化，技术较成熟，功能也多，支持虚机系统多；</li>
-<li><strong>Xenserver</strong> : 重点在于桌面虚拟化，性价比高，网络性能好，适用于快速与大规模部署，支持系统也相对较多；</li>
-<li><strong>Hype-V 微软开发</strong> :，起步相对较晚，对于MS的系统较为支持。</li>
-<li><strong>Oracle VM VirtualBox 开源</strong>:支持的系统种类繁多。</li>
-</ul>
-</blockquote>
-</li>
-<li><p><strong>概括特点</strong></p>
-<blockquote>
-<p>把一台物理计算机虚拟成多台逻辑计算机，每个逻辑计算机里面可以运行不同的操作系统，相互不受影响，实现对于硬件资源的充分利用</p>
-</blockquote>
-</li>
-</ol>
-]]></content>
-      <tags>
-        <tag>作业</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>hello</title>
-    <url>/2022/03/09/hello/</url>
-    <content><![CDATA[<p>yyds</p>
-<h1 id="UZI-yyds"><a href="#UZI-yyds" class="headerlink" title="UZI yyds"></a>UZI yyds</h1>]]></content>
-  </entry>
+<search> 
+  
+  
+    
+    <entry>
+      <title>第一次云计算作业</title>
+      <link href="/2022/03/10/shi-yan/"/>
+      <url>/2022/03/10/shi-yan/</url>
+      
+        <content type="html"><![CDATA[<h1 id="第一次云计算作业"><a href="#第一次云计算作业" class="headerlink" title="第一次云计算作业"></a>第一次云计算作业</h1><h3 id="1-题目-云使能技术包括哪些技术组件？-用一句话简要说明其关键特征"><a href="#1-题目-云使能技术包括哪些技术组件？-用一句话简要说明其关键特征" class="headerlink" title="1, 题目: 云使能技术包括哪些技术组件？ 用一句话简要说明其关键特征"></a>1, 题目: 云使能技术包括哪些技术组件？ 用一句话简要说明其关键特征</h3><ol><li><p><strong>基本技术组件</strong></p><blockquote><ul><li><strong>宽带网络和Internet架构</strong>: 云用户和云提供者通常利用Internet进行通信，Internet以无中心的供给和管理模型为基础，不受任何集中式实体的控制。n网络互联架构的主要组件是使用网络路由器和交换机的无连接分组交换与基于路由器的互联。网络带宽和延迟是影响QoS的因素，而网络拥塞对其有巨大影响。</li><li><strong>数据中心技术</strong>：一种特殊的IT基础设施，用于集中放置IT资源；</li><li><strong>虚拟化技术</strong>：是将物理IT资源转换为虚拟IT资源的过程，虚拟服务器使用自己的客户操作系统，独立于创建虚拟服务器的操作系统，在虚拟服务器上运行的客户操作系统和应用软件，都不会感知到虚拟化的过程；</li><li><strong>Web技术</strong>：WWW是由通过Internet访问的互联IT资源构成的系统，其两个基本组件是Web浏览器客户端和Web服务器；</li><li><strong>多租户技术</strong>：使用隔离，数据安全，可恢复性，应用升级，可扩展性，使用计费，数据层隔离；</li><li><strong>服务技术</strong>：基于Web的服务(如Web服务和REST服务)依靠非专有通信和技术接口定义来建立基于Web技术的标准通信框架，服务代理提供事件驱动运行时处理，适用于云中大量的功能。许多代理都自动部署在操作系统和基于云的产品中，服务中间件(如ESB和业务流程平台)可以在云上部署。</li></ul></blockquote></li><li><p><strong>关键特征</strong>：</p><blockquote><p>所有的云必须连接到网络，同时利用数据中心技术集中存放IT资源，应用虚拟化技术将物理IT资源转换为虚拟IT资源，从而提供了硬件无关性、服务器整合、资源复制、对资源更强的支持和可扩展性；使用Web技术作为云服务的实现介值和管理接口；设计多租户技术使多个用户在逻辑上同时访问一个应用；其中的服务技术是云计算的基石，形成了“作为服务”的云交付模型的基础。</p></blockquote></li></ol><h3 id="2-题目：-列举至少三种虚拟化软件，并用一句话概括其特点"><a href="#2-题目：-列举至少三种虚拟化软件，并用一句话概括其特点" class="headerlink" title="2, 题目： 列举至少三种虚拟化软件，并用一句话概括其特点"></a>2, 题目： 列举至少三种虚拟化软件，并用一句话概括其特点</h3><ol><li><p><strong>三种虚拟化软件</strong></p><blockquote><ul><li><strong>VMware ESXi</strong>:  侧重于服务器虚拟化，技术较成熟，功能也多，支持虚机系统多；</li><li><strong>Xenserver</strong> : 重点在于桌面虚拟化，性价比高，网络性能好，适用于快速与大规模部署，支持系统也相对较多；</li><li><strong>Hype-V 微软开发</strong> :，起步相对较晚，对于MS的系统较为支持。</li><li><strong>Oracle VM VirtualBox 开源</strong>:支持的系统种类繁多。</li></ul></blockquote></li><li><p><strong>概括特点</strong></p><blockquote><p>把一台物理计算机虚拟成多台逻辑计算机，每个逻辑计算机里面可以运行不同的操作系统，相互不受影响，实现对于硬件资源的充分利用</p></blockquote></li></ol>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 作业 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>hello</title>
+      <link href="/2022/03/09/hello/"/>
+      <url>/2022/03/09/hello/</url>
+      
+        <content type="html"><![CDATA[<p>yyds</p><h1 id="UZI-yyds"><a href="#UZI-yyds" class="headerlink" title="UZI yyds"></a>UZI yyds</h1>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+  
+  
 </search>
